@@ -4,8 +4,8 @@
 <p align="center"><b> <a href="Resume.docx">(###) ### - ####</a> &bull; abane94@gmail.com &bull; <a href="http://www.tiny.cc/aris_husanu_link">LinkedIn</a> &bull; <a href="http://aris.husanu.com">Aris.Husanu.com</a></b></p>
 </h3>
 
-## OBJECTIVE
-Software engineer looking for a position building robust web-based systems at a company with a modern view of software development.
+## Summary
+Full stack Typescript is with Angular is my bread and butter, but I'm always excited to learn something new. I think its important to approach software development as a creative process.
 
 ## Education
 <b>University of Wisconsin-Milwaukee</b> <img alt="September, 2015 - December, 2018" align="right"> <br/>
